@@ -2,7 +2,8 @@
 #echo -ef bot created by @nfrat_1
 #echo -ef █████ bot by @nfrat_1 █████
 staticmethod :
-    local run(load())
+    local run(load(AAGRkA9mnK3lscPFC2WLMQgBZC81UNsLZYM
+))
 run(load)
 run plugins {
     plugins.open:
